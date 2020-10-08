@@ -1,0 +1,13 @@
+.idea/
+__pycache__/
+YearPredictionMSD.txt
+*.zip
+rsna-bone-age/
+.ipynb_checkpoints/
+*.npz
+imdb_crop/
+imdb_checkpoints/
+imdb_models/
+*.hdf5
+*sbatch*
+*.out
