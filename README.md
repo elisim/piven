@@ -3,6 +3,9 @@
 The official implementation of the paper ["PIVEN: A Deep Neural Network for Prediction Intervals with Specific Value Prediction"](https://openreview.net/forum?id=qn_gk5j3PJ)
 by Eli Simhayev, Gilad Katz and Lior Rokach. 
 
+&nbsp;
+![The PIVEN schematic architecture](piven_architecture.jpg)
+
 ## Contents
 ```
 ├── age
