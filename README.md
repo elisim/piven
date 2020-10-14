@@ -55,9 +55,9 @@ pip install -r requirements.txt
 
 All experiments tested on Ubuntu 18.04 with Python 3.6.
 
-## Jupyter Notebook Keras Demo
+## Quickstart in Google Colab
 
-A simple fast colab demo using Keras is included in [PIVEN_Demo.ipynb](https://github.com/elisim/piven/blob/master/PIVEN_Demo.ipynb).
+A simple fast colab demo using Keras is included in [PIVEN_Demo.ipynb](https://colab.research.google.com/github/elisim/piven/blob/master/PIVEN_Demo.ipynb).
 
 ## Acknowledgements
 
