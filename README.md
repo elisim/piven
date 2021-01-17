@@ -1,6 +1,6 @@
 # PIVEN: A Deep Neural Network for Prediction Intervals with Specific Value Prediction
 
-The official implementation of the paper ["PIVEN: A Deep Neural Network for Prediction Intervals with Specific Value Prediction"](https://openreview.net/forum?id=qn_gk5j3PJ)
+The official implementation of the paper ["PIVEN: A Deep Neural Network for Prediction Intervals with Specific Value Prediction"](https://arxiv.org/abs/2006.05139)
 by Eli Simhayev, Gilad Katz and Lior Rokach. 
 
 &nbsp;
