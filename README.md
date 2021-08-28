@@ -66,6 +66,20 @@ A Distribution-Free, Ensembled Approach](https://github.com/TeaPearce/Deep_Learn
 IMDB age estimation experiment we used the preprocessing implemented in 
 [SSR-Net: A Compact Soft Stagewise Regression Network for Age Estimation](https://github.com/shamangary/SSR-Net).
 
+## Citing PIVEN
+If you use PIVEN in your research please use the following BibTeX entry:
+
+```BibTeX
+@article{simhayev2020piven,
+  title={PIVEN: A Deep Neural Network for Prediction Intervals with Specific Value Prediction},
+  author={Simhayev, Eli and Katz, Gilad and Rokach, Lior},
+  journal={arXiv preprint arXiv:2006.05139},
+  year={2020}
+}
+```
+
+
+
 
 
 
