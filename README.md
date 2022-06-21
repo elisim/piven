@@ -3,6 +3,12 @@
 The official implementation of the paper ["PIVEN: A Deep Neural Network for Prediction Intervals with Specific Value Prediction"](https://arxiv.org/abs/2006.05139)
 by Eli Simhayev, Gilad Katz and Lior Rokach. 
 
+## Update 21.6.22
+Our paper has been accepted to Knowledge Based Systems 🙂 
+
+https://doi.org/10.1016/j.knosys.2022.108685
+
+
 &nbsp;
 ![The PIVEN schematic architecture](piven_architecture.jpg)
 
@@ -70,11 +76,14 @@ IMDB age estimation experiment we used the preprocessing implemented in
 If you use PIVEN in your research please use the following BibTeX entry:
 
 ```BibTeX
-@article{simhayev2020piven,
-  title={PIVEN: A Deep Neural Network for Prediction Intervals with Specific Value Prediction},
+@article{simhayev2022integrated,
+  title={Integrated prediction intervals and specific value predictions for regression problems using neural networks},
   author={Simhayev, Eli and Katz, Gilad and Rokach, Lior},
-  journal={arXiv preprint arXiv:2006.05139},
-  year={2020}
+  journal={Knowledge-Based Systems},
+  volume={247},
+  pages={108685},
+  year={2022},
+  publisher={Elsevier}
 }
 ```
 
