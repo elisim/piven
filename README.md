@@ -8,9 +8,12 @@ Our paper has been accepted to Knowledge Based Systems 🙂
 
 https://doi.org/10.1016/j.knosys.2022.108685
 
-
 &nbsp;
 ![The PIVEN schematic architecture](piven_architecture.jpg)
+
+## Quickstart in Google Colab
+
+A simple fast colab demo using Keras is included in [PIVEN_Demo.ipynb](https://colab.research.google.com/github/elisim/piven/blob/master/PIVEN_Demo.ipynb).
 
 ## Contents
 ```
@@ -60,10 +63,6 @@ pip install -r requirements.txt
 ```
 
 All experiments tested on Ubuntu 18.04 with Python 3.6.
-
-## Quickstart in Google Colab
-
-A simple fast colab demo using Keras is included in [PIVEN_Demo.ipynb](https://colab.research.google.com/github/elisim/piven/blob/master/PIVEN_Demo.ipynb).
 
 ## Acknowledgements
 
