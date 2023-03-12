@@ -11,6 +11,15 @@ https://doi.org/10.1016/j.knosys.2022.108685
 &nbsp;
 ![The PIVEN schematic architecture](piven_architecture.jpg)
 
+## TL;DR
+A neural network with a PIVEN output layer returns a point prediction as well as a lower and upper prediction interval (PI) for each target in a regression problem. The image below shows how the lower and upper PI change as we keep training the model:
+
+<p align="center">
+<img src="piven_gif.gif"></img>
+</p>
+
+We thank Jasper Ginn (@JasperHG90) from GoDataDriven ([godatadriven/piven](https://github.com/godatadriven/piven)) for the image 🙂
+
 ## Quickstart in Google Colab
 
 A simple fast colab demo using Keras is included in [PIVEN_Demo.ipynb](https://colab.research.google.com/github/elisim/piven/blob/master/PIVEN_Demo.ipynb).
